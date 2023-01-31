@@ -1,0 +1,6 @@
+projectKey=fps-nodejs
+serverUrl=http://10.9.17.230:8000
+serverVersion=8.9.6.50800
+dashboardUrl=http://10.9.17.230:8000/dashboard?id=fps-nodejs
+ceTaskId=AX6UnKQWpyEosr0zBhOi
+ceTaskUrl=http://10.9.17.230:8000/api/ce/task?id=AX6UnKQWpyEosr0zBhOi

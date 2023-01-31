@@ -1,0 +1,8 @@
+# Lib
+node_modules
+
+
+# Test
+coverage
+testResults
+.scannerwork
